@@ -1,4 +1,5 @@
 import os
+from langchain_openai import AzureChatOpenAI
 
 # os.environ["AZURE_OPENAI_API_KEY"]
 
